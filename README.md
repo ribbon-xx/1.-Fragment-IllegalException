@@ -7,4 +7,4 @@ Rule:
   - Pull request đầu tiên
 
 Pricing: 
-[![Pricing]https://image.posterlounge.ie/img/products/520000/514721/514721_poster_l.jpg]
+![Pricing](https://image.posterlounge.ie/img/products/520000/514721/514721_poster_l.jpg)
